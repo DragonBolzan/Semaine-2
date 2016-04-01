@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <header> Camille Bolzan, Data analyste
+    </header>
+    
+    <main>
+    <h1>Résumé</h1>
+        <p>Passionnée d'informations à caractère économique, des méthodes de recueil et d'analyse de données et des techniques de veille sur internet, j'aimerais devenir analyste de données. Pour finaliser mon projet, je me forme en lanages informatiques et en statistiques.</p> 
+    
+    <h1>Mes expériences professionnelles</h1>
+    <h3>Chargée de projet recherche - Veille stratégique (CDD)</h3>
+        <p>Gestion d'un Observatoire sur les usages alimentaires intégré dans un processus de veille
+        <ul>
+            <li>Classification et analyse des sources clés d'informations en contexte international</li>
+            <li>Scrapping et architecture automatisés de grands volumes de données</li>
+            <li>Analyse quantitative et qualitative de données économiques et textuelles</li>
+            <li>Développement de méthodologies de comparaison interculturelle de données</li>
+            <li>Gestion et suivi de projet pour mettre à disposition les études à date à travers un outil informatique axé utilisateur</li>
+            <li>Développement d'une stratégie de communication à caractère scientifique (partage de contenus pédagogiques sur les méthodologies employées, livraison de datavisualisation, engagement autour des contenus)</li>
+        </ul>
+        </p>
+        
+        <h3>Journaliste économique (Contrat d'apprentissage)</h3>
+        <ul>
+            <li>Rédaction de synthèses et dossiers sur l'information économique et financière de l'industrie des médias, de la publicité et de la communication numériques à l'attention d'un lectorat professionnel</li>
+        </ul>
+    </main>
+    
+    <footer>
+    <p>Si vous souhaitez me contacter <a href="https://www.linkedin.com/in/camille-bolzan-0981b859?trk=nav_responsive_tab_profile>cliquez ici</a>
+    </footer>
+    
+</html>
