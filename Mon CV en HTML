@@ -1,13 +1,20 @@
 <!DOCTYPE html>
-<html>
-    <header> Camille Bolzan, Data analyste
+<html lang="fr">
+    <head>
+    <meta charset="utf-8">
+    <title>Mon CV en HTML</title>
+    </head>
+    
+<body>
+    <header> 
+    <h1>Camille Bolzan, Data analyste</h1>
     </header>
     
     <main>
-    <h1>Résumé</h1>
+    <h2>Résumé</h2>
         <p>Passionnée d'informations à caractère économique, des méthodes de recueil et d'analyse de données et des techniques de veille sur internet, j'aimerais devenir analyste de données. Pour finaliser mon projet, je me forme en lanages informatiques et en statistiques.</p> 
     
-    <h1>Mes expériences professionnelles</h1>
+    <h2>Mes expériences professionnelles</h2>
     <h3>Chargée de projet recherche - Veille stratégique (CDD)</h3>
         <p>Gestion d'un Observatoire sur les usages alimentaires intégré dans un processus de veille
         <ul>
@@ -29,5 +36,6 @@
     <footer>
     <p>Si vous souhaitez me contacter <a href="https://www.linkedin.com/in/camille-bolzan-0981b859?trk=nav_responsive_tab_profile>cliquez ici</a>
     </footer>
+</body>
     
 </html>
